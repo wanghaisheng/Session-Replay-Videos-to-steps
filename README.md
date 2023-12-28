@@ -11,3 +11,5 @@ https://medium.com/replay-io/session-replay-vs-time-travel-debugging-14a1357e2fc
 
 Sentry recording
 
+
+https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/multimodal-vision?tabs=image-chat
